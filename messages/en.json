@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "login": "Login",
+    "register": "Register",
+    "loginTitle": "Welcome Back",
+    "registerTitle": "Create an Account",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "signIn": "Sign in",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "protected": "Welcome to your dashboard! This is a protected route.",
+    
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "passwordRequired": "Password is required",
+      "passwordLength": "Password must be at least 8 characters",
+      "passwordMatch": "Passwords must match",
+      "invalidCredentials": "Invalid email or password"
+    }
+  }
+}

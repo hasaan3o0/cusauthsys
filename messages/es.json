@@ -1,0 +1,26 @@
+{
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "loginTitle": "Bienvenido de nuevo",
+    "registerTitle": "Crear una cuenta",
+    "noAccount": "¿No tienes una cuenta?",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "signUp": "Regístrate",
+    "signIn": "Inicia sesión",
+    "logout": "Cerrar sesión",
+    "dashboard": "Tablero",
+    "protected": "Bienvenido a tu tablero! Esta es una ruta protegida.",
+    "errors": {
+      "emailRequired": "El correo electrónico es requerido",
+      "emailInvalid": "Por favor ingrese un correo electrónico válido",
+      "passwordRequired": "La contraseña es requerida",
+      "passwordLength": "La contraseña debe tener al menos 8 caracteres",
+      "passwordMatch": "Las contraseñas deben coincidir",
+      "invalidCredentials": "Correo electrónico o contraseña inválidos"
+    }
+  }
+}
